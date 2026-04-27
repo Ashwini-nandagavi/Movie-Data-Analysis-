@@ -5,10 +5,6 @@
 
 ---
 
-## 🚀 Live Demo
-*(Add your deployed link here — Streamlit Cloud / Render / AWS)*
-
----
 
 ## 📖 Project Description
 
@@ -71,6 +67,6 @@ This project demonstrates practical skills in:
 ```bash
 Movie-Data-Dashboard/
 │
-├── app.py                # Main Streamlit application
+├── movie_dashboard.py    # Main Streamlit application
 ├── movie.csv             # Dataset (optional)
 ├── README.md             # Documentation
